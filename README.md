@@ -7,7 +7,7 @@ Install requirements.txt
 
 In terminal, run:
 ```python
-streamlit run crypto_app.py
+streamlit run main.py
 ```
 ## Usage
 To be documented
